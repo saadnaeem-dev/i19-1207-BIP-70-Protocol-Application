@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "bitcore-lib": "^0.15.0",
+    "bitcore-payment-protocol": "1.2.2",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "underscore": "^1.9.1"
+  }
+}
